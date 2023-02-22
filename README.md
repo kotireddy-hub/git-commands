@@ -10,3 +10,5 @@ Process :-
 1. git clone is used to clone the new repo from github.
 1. git status is used to know the how many file i have to change.
 1. git add is used to move to file staging area.
+
+1. git remote -v - to know the remote repo
