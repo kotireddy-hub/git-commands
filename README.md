@@ -12,3 +12,5 @@ Process :-
 1. git add is used to move to file staging area.
 
 1. git remote -v - to know the remote repo
+
+1. git pull is used to pull data from repo.
